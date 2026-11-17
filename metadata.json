@@ -1,0 +1,6 @@
+{
+  "name": "Musica",
+  "description": "La musique à portée de main — Plateforme gratuite de streaming et de publication musicale libre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
